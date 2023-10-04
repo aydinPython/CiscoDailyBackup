@@ -6,7 +6,7 @@ from datetime import datetime
 # Define the path to your files
 path = '/home/netadmin/cisco-inventory'
 backup_path_switches = '/home/netadmin/HO-Backup/Cisco/Switches/'
-backup_path_routers = '/home/netadmin/DR-Backup/Cisco/Routers/'
+backup_path_routers = '/home/netadmin/HO-Backup/Cisco/Routers/'
 
 
 # Email parameters
